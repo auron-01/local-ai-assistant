@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Локальная векторная база данных ChromaDB
+chroma_db/
+
+# Кэш Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы настроек IDE и системы
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Конфиденциальные данные (если появятся API-ключи)
+.env
