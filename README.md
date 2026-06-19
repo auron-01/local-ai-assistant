@@ -5,7 +5,7 @@ This is a 100% pure Python web application that allows you to analyze any GitHub
 ## Tech Stack
 - Frontend/Backend: Streamlit
 - Vector Database: ChromaDB
-- Local LLMs: `qwen2.5-coder` (Generation), `nomic-embed-text` (Embeddings)
+- Local LLMs: `llama3` (Generation), `nomic-embed-text` (Embeddings)
 
 ## Setup Instructions
 1. Clone this repository.
